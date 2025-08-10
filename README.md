@@ -1,4 +1,6 @@
-📧 Email Classifier — Spam vs Ham
+                                    📧 Email Classifier 
+  — Spam vs Ham
+
 🎯 Objective
 Classify messages as spam or ham (not spam) based on text features, using Naive Bayes and Logistic Regression models.
 
@@ -47,6 +49,6 @@ F1-score
 
 🖼 Output Samples
 
-<img width="994" height="683" alt="Screenshot 2025-08-11 002123" src="https://github.com/user-attachments/assets/f2f4c42a-58fd-46ec-8a56-75e2dafff644" />
-<img width="978" height="670" alt="Screenshot 2025-08-11 002143" src="https://github.com/user-attachments/assets/d28a4901-ffd3-45cf-822f-5feb1f33eedb" />
+<img width="794" height="483" alt="Screenshot 2025-08-11 002123" src="https://github.com/user-attachments/assets/f2f4c42a-58fd-46ec-8a56-75e2dafff644" />
+<img width="778" height="470" alt="Screenshot 2025-08-11 002143" src="https://github.com/user-attachments/assets/d28a4901-ffd3-45cf-822f-5feb1f33eedb" />
 
